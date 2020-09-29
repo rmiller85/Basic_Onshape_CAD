@@ -19,3 +19,9 @@ Similarly, the mount for my caster was a simple process of extruding a sketch, b
 The fork was slightly more complex, but still fairly easy. I extruded a thin disc, then extruded two legs out from it on one side and a cylinder out from the other. I then extruded a hole through the legs. Finally, I added fillets and chamfers throughout the part to streamline it. Here's the full part.
 
 ![Fork](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-28%20at%208.10.39%20PM.png)
+
+### Tire
+
+The tire was a simple part, but introduced me to some new tools. First, I made a rough trapezoid with the line tool, then added vertical and horizontal construction lines. I then defined the trapezoid's dimensions and set it to be symmetrical about the vertical construction line. I then revolved the trapezoid 360 degrees and made the tire dark grey. With that, it was complete, and appeared as below.
+
+![Tire](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-28%20at%208.23.33%20PM.png)
