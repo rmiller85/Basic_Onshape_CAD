@@ -43,3 +43,10 @@ Making the axle was a simple extruded cylinder and a cut. The cut used used some
 
 ![Axle and Collar](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2012.01.09%20PM.png)
 [Onshape doc](https://cvilleschools.onshape.com/documents/a16bef8d4b16f8a663b94255/w/9a0e2380238d3de9ac7dc78d/e/7d15e8004ddeff20f9e8e6f2)
+
+### Washer
+
+The washer was one of the simplest parts. It was just an extrusion of a cylinder. However, it is still useful in the final assembly, and thus deserves a section of its own.
+
+![Washer](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2012.00.39%20PM.png)
+[Onshape doc](https://cvilleschools.onshape.com/documents/9740c2baaca9fd4c65bc9d8c/w/bc22fe45d54c0f36e117931c/e/3e6a9dfa816ed6f473907811)
