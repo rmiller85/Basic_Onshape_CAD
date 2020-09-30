@@ -2,6 +2,8 @@
 
 This is my repo for my caster project, and possibly other basic CAD assignments.
 
+## Parts
+
 ### Base
 
 The base of my caster was a fairly simple process. I learned a few keyboard shortcuts and some basics on how Onshape works as opposed to Solidworks. I extruded a rectangle and cut circles (created with a linear pattern) out of it. The finished base is picured below.
@@ -50,3 +52,12 @@ The washer was one of the simplest parts. It was just an extrusion of a cylinder
 
 ![Washer](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2012.00.39%20PM.png)
 [Onshape doc](https://cvilleschools.onshape.com/documents/9740c2baaca9fd4c65bc9d8c/w/bc22fe45d54c0f36e117931c/e/3e6a9dfa816ed6f473907811)
+
+## Assembly
+
+### Wheel + Axle Subassembly
+
+Before making a full assembly of the entire caster, I first made a smaller subassembly of just the wheel, tire, axle, and 2 bearings (a new part which was incredibly simple). I learned how to use mates in Onshape. I think the mate interface is weird and miss Solidworks, but I'm sure I'll get used to it reasonably soon. I mated the tire onto the wheel, the axle into the wheel, and the bearings onto each side of the axle.
+
+![Wheel, tire, and axle put together](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%201.21.00%20PM.png)
+[Onshape doc](https://cvilleschools.onshape.com/documents/6afac2393c5bc2b3544c9f31/w/63f5b182562c1177a8ac6958/e/367ef0c032168236bf5ffcd3)
