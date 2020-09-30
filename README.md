@@ -31,3 +31,9 @@ The tire was a simple part, but introduced me to some new tools. First, I made a
 The wheel of my caster was somewhat more complex. I used a revolve again, then made a cut-out through a nice feature of Onshape: you can select certain parts of a sketch to use in a feature. Because of that, sketching the cut-out was far quicker. I used a circular pattern to create 5 more cut-outs, then added a few fillets.
 
 ![Wheel](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2011.31.57%20AM.png)
+
+### Axle & Collar
+
+Making the axle was a simple extruded cylinder and a cut. The cut used used some of the cylinder's geometry through the *Use* tool. Next, I made a collar for the axle. This was also a simple extrusion, but used an exciting feature of Onshape: it created an entirely new part *inside* the same document that held the axle.
+
+![Axle and Collar](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2012.01.09%20PM.png)
