@@ -61,3 +61,10 @@ Before making a full assembly of the entire caster, I first made a smaller subas
 
 ![Wheel, tire, and axle put together](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%201.21.00%20PM.png)
 [Onshape doc](https://cvilleschools.onshape.com/documents/6afac2393c5bc2b3544c9f31/w/63f5b182562c1177a8ac6958/e/367ef0c032168236bf5ffcd3)
+
+### Final Assembly
+
+I was finally ready to put it all together. It was a long process, as I had to use my new (and still questionable) mating skills a lot. In terms of *new* skills, however, I only learned one: how to import parts from a pre-made library. This library is for things like screws, bolts, and other standardized products. After figuring that out, it was a simple matter of fiddling with mates until I was happy with it. The final, completed caster wheel is pictured below, alongside a link to its Onshape document.
+
+![Final assembly](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%206.05.08%20PM.png)
+[Onshape doc](https://cvilleschools.onshape.com/documents/a8e41a6673a969247a8881b6/w/9d0fd24222ca8d531115c015/e/371e95f200ee58b53a060781)
