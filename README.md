@@ -25,3 +25,9 @@ The fork was slightly more complex, but still fairly easy. I extruded a thin dis
 The tire was a simple part, but introduced me to some new tools. First, I made a rough trapezoid with the line tool, then added vertical and horizontal construction lines. I then defined the trapezoid's dimensions and set it to be symmetrical about the vertical construction line. I then revolved the trapezoid 360 degrees and made the tire dark grey. With that, it was complete, and appeared as below.
 
 ![Tire](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-28%20at%208.23.33%20PM.png)
+
+### Wheel
+
+The wheel of my caster was somewhat more complex. I used a revolve again, then made a cut-out through a nice feature of Onshape: you can select certain parts of a sketch to use in a feature. Because of that, sketching the cut-out was far quicker. I used a circular pattern to create 5 more cut-outs, then added a few fillets.
+
+![Wheel](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-09-30%20at%2011.31.57%20AM.png)
