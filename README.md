@@ -77,3 +77,10 @@ This was a truly frustrating (albeit helpful) assignemnt. Creating the individua
 
 ![Onshape Challenge](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-10-09%20at%204.41.03%20PM.png)
 [Onshape doc](https://cvilleschools.onshape.com/documents/14e3bbcee0298b3bdd002458/w/d40fe0d59cb105b160490a38/e/40e17f09d80eaf66d4a9bad6)
+
+## Dorothy's Dowel Pins
+
+A much more relaxing and enjoyable assignment. I learned how Onshape's configuration system works. Spoiler alert for people who haven't used it - it's an absolute joy. Far better than Solidworks. I'm only disappointed that Onshape's mate system couldn't be this good. Anyway, I made a bunch of configurations of dowels, then designed a frame that would be held together by said dowels. It all went swimmingly, aside from a few minor problems when assembling the whole thing (once again, thank you mates).
+
+![Dorothy's Dowel Pins](https://github.com/rmiller85/Basic_Onshape_CAD/blob/master/images/Screenshot%202020-10-09%20at%206.57.45%20PM.png)
+[Onshape doc](https://cvilleschools.onshape.com/documents/119cb05eed73d6227bdb7bef/w/9fe8406b3d034d95bccb0ab1/e/967a638ddeea7fd4dffcfc9d)
